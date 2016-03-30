@@ -2,8 +2,8 @@
 Translation UI using google translate api. 
 
 1. Clone repo, 
-2. Run npm install and 
-3. Run the webpack server. 
+2. Run npm install 
+3. Run the webpack server. `webpack-dev-server --progress --colors` 
 4. Create your project on google cloud platform and put the api key on 
 **translation-demo/src/app.jsx**
 
